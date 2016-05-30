@@ -1,0 +1,14 @@
+{
+    "name": "mkerix/berlin-airport-php",
+    "description": "Easily get airport and flight info for Berlin.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Heiko Rothe",
+            "email": "heikorothe@msn.com"
+        }
+    ],
+    "require": {
+        "rmccue/requests": "^1.6"
+    }
+}
